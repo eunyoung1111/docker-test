@@ -1,3 +1,1 @@
 # docker-test
-
-AWS Infra
